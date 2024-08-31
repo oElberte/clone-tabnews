@@ -1,6 +1,8 @@
 function Rafa() {
   return (
-    <h1>Rafa, eu gosto de você. Se você gosta de mim, dá uma risadinha!</h1>
+    <div>
+      <h1>Rafa, eu gosto de você. Se você gosta de mim, dá uma risadinha!</h1>
+    </div>
   );
 }
 
