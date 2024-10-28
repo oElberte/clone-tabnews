@@ -1,6 +1,6 @@
 import styles from "./styles.module.css";
 
-export default function Home() {
+export default function Maisla() {
   return (
     <div className={styles.page}>
       <style jsx global>{`
